@@ -8,3 +8,9 @@
 # Generic
 *.log
 *.backup
+
+# ENV
+.env.sh
+
+# App
+azure-files-upload-example
